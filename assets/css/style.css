@@ -103,3 +103,13 @@ header {
     font-weight: 300;
     letter-spacing: 2px;
 }
+
+#nav {
+    margin: 0
+}
+
+/*Hover.css -----------------------------------*/
+
+.hvr-fade:before {
+
+}
